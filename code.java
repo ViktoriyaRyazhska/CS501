@@ -1,4 +1,6 @@
-Marathon is started
+
+My CS50 Marathon is started
+
 Scheduler: 
 
 Hello world!
